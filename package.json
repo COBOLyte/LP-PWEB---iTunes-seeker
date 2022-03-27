@@ -1,5 +1,5 @@
 {
-  "name": "profile-app",
+  "name": "itunes-seeker",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -22,8 +22,7 @@
     "react-native": "0.64.3",
     "react-native-ionicons": "^4.6.5",
     "react-native-ratings": "^8.1.0",
-    "react-native-web": "0.17.1",
-    "sync-storage": "^0.4.2"
+    "react-native-web": "0.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
